@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorViewBackground">#FFFFFF</color>
+    <color name="colorTooblar">#186096</color>
+    <color name="colorStatusBar">#00386C</color>
+    <color name="colorViewBackgroundWithCard">#F1F1F1</color>
+    <color name="colorBackgroundCards">#FFFFFF</color>
+    <color name="colorBtnNavigation">#186096</color>
+    <color name="colorTxtAndIconsEnabled">#FFFFFF</color>
+    <color name="colorTxtAndIconsDisable">#95B6CF</color>
+
+
+
+</resources>
